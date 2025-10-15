@@ -1,6 +1,6 @@
 {
-  "version": "v7.49.0.816946145 (patches 5.43.0)",
-  "versionCode": 18,
-  "zipUrl": "https://github.com/RuSheng920/revanced/releases/download/18/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
+  "version": "v7.49.0.816946145 (patches 5.43.1)",
+  "versionCode": 19,
+  "zipUrl": "https://github.com/RuSheng920/revanced/releases/download/19/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/RuSheng920/revanced/update/build.md"
 }
