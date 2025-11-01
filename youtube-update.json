@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.44.0)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/RuSheng920/revanced/releases/download/20/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.45.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/RuSheng920/revanced/releases/download/21/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/RuSheng920/revanced/update/build.md"
 }
